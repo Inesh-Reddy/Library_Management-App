@@ -1,0 +1,83 @@
+### Java ###
+# Compiled class files
+*.class
+
+# Maven target folder
+target/
+
+# Maven wrapper
+.mvn/
+.mvn/wrapper/
+
+# Log files
+*.log
+
+# JetBrains IDE (IntelliJ) specific files
+.idea/
+
+# Eclipse specific files
+.project
+.classpath
+.settings/
+
+# VS Code specific files
+.vscode/
+
+# macOS specific files
+.DS_Store
+
+# Spring Boot specific
+spring-boot-devtools/
+
+### OS-specific ###
+# macOS system files
+.DS_Store
+
+### Java-specific ###
+# Dependency directories
+lib/
+*.jar
+*.war
+*.ear
+
+# Dependency cache (maven)
+.m2/
+
+# JRebel specific files (if used)
+.jrebel/
+
+# IntelliJ IDEA
+.idea/
+
+# NetBeans specific files
+nbproject/
+
+# Gradle specific files (in case you might switch to Gradle in the future)
+.gradle/
+build/
+
+# Package Manager files
+node_modules/
+npm-debug.log
+
+### IDE & Tools ###
+# IntelliJ
+.idea/
+
+# Eclipse project files
+.project
+.classpath
+.settings/
+
+# VS Code specific files
+.vscode/
+
+# OS generated files
+.DS_Store
+Thumbs.db
+
+# Temporary or lock files
+*.swp
+*.swo
+*.lock
+
