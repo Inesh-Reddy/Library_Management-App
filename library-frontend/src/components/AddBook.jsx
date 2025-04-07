@@ -37,6 +37,7 @@ const AddBook = () => {
       });
 
       if (response.ok) {
+        // const data  = await response.json();
         setBooks((prevBooks) => [...prevBooks, newBook]);
         titleRef.current.value = "";
         authorRef.current.value = "";
